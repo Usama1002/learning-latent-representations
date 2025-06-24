@@ -2,7 +2,7 @@
 
 This repository contains the official code for the paper:
 
-**"Learning High-Quality Latent Representations for Anomaly Detection and Signal Integrity Enhancement in High-Speed Signals"**
+**"Learning High-Quality Latent Representations for Anomaly Detection and Signal Integrity Enhancement in High-Speed Signals"** [ArXiv Link](https://arxiv.org/pdf/2506.18288)
 
 This repository provides a complete pipeline for anomaly detection and signal integrity (SI) enhancement in DRAM signals using deep learning. The workflow includes data preparation, labeling, model training, latent vector extraction, and SI enhancement.
 
